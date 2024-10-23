@@ -2,7 +2,7 @@
 # Site settings
 title: "Sijo Alex"
 description: "Portfolio of Sijo Alex - Data Science Enthusiast, AI Engineer, and MBA Student"
-url: "https://your-github-username.github.io" # Change this to your repository URL
+url: "https://sijoalex157.github.io/portfolioDS/" # Change this to your repository URL
 baseurl: "" # The subpath of your site, e.g., /blog
 
 # GitHub Pages settings
