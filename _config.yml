@@ -1,28 +1,14 @@
+title: Sijo Alex
+#logo: /assets/img/image.png  # Updated to use your image file path
+# description: Data Scientist, Machine Learning Enthusiast, MBA Student
+show_downloads: true
+theme: jekyll-theme-minimal
 
-# Site settings
-title: "Sijo Alex"
-description: "Portfolio of Sijo Alex - Data Science Enthusiast, AI Engineer, and MBA Student"
-url: "https://sijoalex157.github.io/portfolioDS/" # Change this to your repository URL
-baseurl: "" # The subpath of your site, e.g., /blog
-
-# GitHub Pages settings
-theme: minima
-
-# Social media links
+# Social links
 social_links:
   email: "sijoalex157@gmail.com"
   linkedin: "https://www.linkedin.com/in/sijo-alex-82321717a/"
   ieee_paper: "https://ieeexplore.ieee.org/document/10493586"
-
-# Contact information
-email: "sijoalex157@gmail.com"
-phone: "+91-7875445536"
-
-# Author Information
-author:
-  name: "Sijo Alex"
-  email: "sijoalex157@gmail.com"
-  linkedin: "https://www.linkedin.com/in/sijo-alex-82321717a/"
 
 # Navigation links
 nav:
@@ -37,39 +23,11 @@ nav:
   - name: "Contact"
     url: "/contact"
 
-# Defaults for pages
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-
-# Plugins (optional but useful for extra functionality)
-plugins:
-  - jekyll-feed   # RSS feed for posts
-  - jekyll-sitemap  # Automatically generate a sitemap
-
-# Markdown settings
-markdown: kramdown
-highlighter: rouge
-
-# Theme customizations
-minima:
-  social_links:
-    github: your-github-username  # Replace with your GitHub username
-    linkedin: https://www.linkedin.com/in/sijo-alex-82321717a/
-
-# SEO settings (optional but recommended)
-permalink: "/:title/"
-paginate: 5
-exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
-
-# Google Analytics (optional)
-google_analytics: "UA-XXXXXXXXX-X" # Add your Google Analytics tracking ID if needed
+# Author Information
+author:
+  name: "Sijo Alex"
+  email: "sijoalex157@gmail.com"
+  linkedin: "https://www.linkedin.com/in/sijo-alex-82321717a/"
 
 # Build settings
 markdown_ext: "md"
