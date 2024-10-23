@@ -2,7 +2,7 @@
 
 ## About Me
 
-**Hi! I'm Sijo Alex**, a passionate professional with over 20 months of experience in the steel and technology industries. I have a background in mechanical engineering and am currently pursuing an MBA with a focus on data science and machine learning.
+**Hi! I'm Sijo Alex**, a passionate professional with over 17 months of experience in the steel and technology industries. I have a background in mechanical engineering and am currently pursuing an MBA with a focus on data science and machine learning.
 
 - **Email**: [sijoalex157@gmail.com](mailto:sijoalex157@gmail.com)
 - **LinkedIn**: [linkedin.com/in/sijoalex](https://www.linkedin.com/in/sijo-alex-82321717a/)
@@ -46,7 +46,7 @@ Developed various AI-based projects, including:
 
 ## Achievements
 
-- Published research in **IEEE** on stock price prediction using machine learning for IT midcap companies.
+- Published research in **IEEE** on stock price prediction using machine learning for IT midcap companies. [Read more](https://ieeexplore.ieee.org/document/10493586)
 - Awarded **Best Paper** at the International Conference on Emerging Trends in Information Technology and Engineering (ic-ETITE’24).
 
 ## Contact Me
